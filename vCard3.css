@@ -1,0 +1,10 @@
+*{margin: 0; box-sizing: border-box;}
+.t{padding: 40px;}
+.v1{ width: 500px;
+    height: 250px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRhbTuv7eLAH7xOnimIFdX7eN5fpK-u_9vJA&usqp=CAU);
+    margin: auto;
+    border-radius: 90px 125px 90px 20vh;
+    box-shadow: 10px 0px 10px 10px;
+}
+.v1 h1{text-align: center; color: rgb(19, 171, 218);font-family:'Courier New', Courier, monospace}

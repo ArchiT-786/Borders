@@ -1,0 +1,12 @@
+*{margin: 0; box-sizing: border-box;}
+.t{padding: 40px;}
+.v1{ width: 500px;
+    height: 250px;
+    background-image: url(https://w7.pngwing.com/pngs/392/632/png-transparent-business-card-gratis-painted-green-background-blooming-yellow-leaf-pattern-watercolor-painting-user-interface-design-leaf-thumbnail.png);
+    margin: auto;
+    border-radius: 200px 15px 900px 20vh;
+    box-shadow: 10px 0px 10px 10px;
+}
+.v1 h1{text-align:start; color: rgb(4, 151, 83);font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif}
+.v1 ol{text-align:start; color: rgb(4, 151, 83);font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif}
+

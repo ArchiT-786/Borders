@@ -1,0 +1,14 @@
+*{margin: 0; box-sizing: border-box;}
+.t{padding: 50px;}
+.v1{ width: 500px;
+    height: 250px;
+    background-image: url(https://images.all-free-download.com/images/graphicwebp/blue_floral_ornament_vintage_background_vector_541317.webp);
+    margin: auto;
+    border-radius: 50% 900% 190% 10%;
+    box-shadow: 10px 0px 10px 10px;
+    border: 10px;
+    border-color: black;
+}
+.v1 h1{text-align: center; color: rgb(0, 0, 0);font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+
+
